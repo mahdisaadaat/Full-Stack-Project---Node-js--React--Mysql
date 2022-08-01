@@ -1,0 +1,22 @@
+.containerAll {
+  .card {
+    border: 1px solid #000;
+    padding: 25px;
+    border-radius: 25px;
+
+    .card-header {
+      background: #eee;
+      padding: 25px;
+      margin: 15px;
+      border-radius: 25px;
+    }
+    .container {
+      strong {
+        float: left;
+      }
+      span {
+        float: right;
+      }
+    }
+  }
+}
